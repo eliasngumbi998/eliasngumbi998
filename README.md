@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/eliasngumbi998"><img src="https://github-profile-trophy.vercel.app/?username=yoyo930021&theme=onedark" alt="eliasngumbi998" /></a> </p>
 
-- 🔭 I’m currently working on [vuejs/vetur](https://github.com/vuejs/vetur) and PHP Solutions
+- 🔭 I’m currently working on [vuejs/vetur](https://github.com/vuejs/vetur) and building PHP Solutions
 
 - 🌱 I’m currently learning **Capacitor, Vue3 and Flutter**
 
