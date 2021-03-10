@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yoyo930021&show_icons=true&locale=en&theme=dark" alt="eliasngumbi998" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoyo930021&theme=dark" alt="eliasngumbi998" />
 </p>
 
