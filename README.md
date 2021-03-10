@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=yoyo930021&label=Profile%20views&color=0e75b6&style=flat" alt="yoyo930021" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=yoyo930021&label=Profile%20views&color=0e75b6&style=flat" alt="eliasngumbi998" /> </p>
 
 <h1 align="center">Hi 👋, I'm Elias Ngumbi</h1>
 <h3 align="center">A full Stack developer from Kenya</h3>
@@ -11,12 +11,12 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/eliasngumbi998](https://github.com/eliasngumbi998)
 
-- 💬 Ask me about **Vue, TypeScript and LSP**
+- 💬 Ask me about **Vue, PHP, TypeScript and LSP**
 
 - 📫 How to reach me **business@elitepathsoftware.com**
 
 <p align="center">
-  <a href="https://twitter.com/ElitepathSW" target="blank"><img src="https://img.shields.io/twitter/follow/yoyo930021?logo=twitter&style=for-the-badge" alt="eliasngumbi998" /></a>
+  <a href="https://twitter.com/ElitepathSW" target="blank"><img src="https://img.shields.io/twitter/follow/eliasngumbi998?logo=twitter&style=for-the-badge" alt="eliasngumbi998" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
