@@ -16,7 +16,7 @@
 - 📫 How to reach me **business@elitepathsoftware.com**
 
 <p align="center">
-  <a href="https://twitter.com/ElitepathSW" target="blank"><img src="https://img.shields.io/twitter/follow/eliasngumbi998?logo=twitter&style=for-the-badge" alt="eliasngumbi998" /></a>
+  <a href="https://twitter.com/ElitepathSW" target="blank"><img src="https://img.shields.io/twitter/follow/ElitepathSW?logo=twitter&style=for-the-badge" alt="eliasngumbi998" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
