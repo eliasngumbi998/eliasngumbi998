@@ -1,7 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=yoyo930021&label=Profile%20views&color=0e75b6&style=flat" alt="eliasngumbi998" /> </p>
 
 <h1 align="center">Hi 👋, I'm Elias Ngumbi</h1>
-<h3 align="center">A full Stack developer from Kenya</h3>
+<h3 align="center">A full Stack developer</h3>
 
 <p align="center"> <a href="https://github.com/eliasngumbi998"><img src="https://github-profile-trophy.vercel.app/?username=yoyo930021&theme=onedark" alt="eliasngumbi998" /></a> </p>
 
