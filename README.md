@@ -13,7 +13,8 @@
 
 - 💬 Ask me about **Vue, PHP, TypeScript and LSP**
 
-- 📫 How to reach me **business@elitepathsoftware.com**
+- 📫 How to reach me **eliasngumbi@elitepathsoftware.com
+**
 
 <p align="center">
   <a href="https://twitter.com/ElitepathSW" target="blank"><img src="https://img.shields.io/twitter/follow/ElitepathSW?logo=twitter&style=for-the-badge" alt="eliasngumbi998" /></a>
