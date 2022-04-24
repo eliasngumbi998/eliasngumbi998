@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Vue, PHP, TypeScript and LSP**
 
-- 📫 How to reach me **eliasngumbi@elitepathsoftware.com
+- 📫 How to reach me **business@elitepathsoftware.com
 **
 
 <p align="center">
