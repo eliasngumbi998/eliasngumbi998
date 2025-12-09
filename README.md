@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [vuejs/vetur](https://github.com/vuejs/vetur) and building PHP Solutions
 
-- 🌱 I’m currently learning **Capacitor, Vue3 and Flutter**
+- 🌱 I’m currently advancing on **Capacitor, Vue3 and Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/eliasngumbi998](https://github.com/eliasngumbi998)
 
-- 💬 Ask me about **Vue, PHP, TypeScript and LSP**
+- 💬 Ask me about **Flutter, Vue, PHP, Laravel, TypeScript and LSP**
 
 - 📫 How to reach me **eliasngumbi@elitepathsoftware.com
 **
